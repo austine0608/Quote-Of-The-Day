@@ -1,0 +1,23 @@
+#demo{
+    /* background-color:gray; */
+    /* width:900px; */
+    border-radius:14px;
+    /* color:white; */
+}
+button{
+    width:300px;
+    height:90px;
+    background-color:blue;
+    color:white;
+    border-radius:10px;
+}
+h1{
+    font-size:80px;
+    font-family: Impact;
+}
+p{
+    font-size:35px;
+}
+button:hover{
+    background-color:green;
+}
